@@ -1,0 +1,141 @@
+[2025-05-25 02:29:44] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:30:02] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:05] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:08] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:11] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:14] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:17] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:20] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:23] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:26] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:29] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:32] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:35] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:38] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:42] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:30:45] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:32:30] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:32:45] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:32:48] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:04] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:07] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:07] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:08] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:08] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:08] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:08] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:08] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:08] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:09] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:10] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:11] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:11] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:11] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:12] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:13] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:13] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:13] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:13] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:14] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:15] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:16] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:16] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:16] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:16] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:18] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:18] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:18] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:18] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:23] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:24] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:25] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:25] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:25] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:26] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:26] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:26] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:27] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:28] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:28] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:28] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:28] PERINGATAN: Lebih dari satu wajah terdeteksi!
+[2025-05-25 02:33:40] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:43] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:48] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:51] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:54] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:33:57] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:00] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:03] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:07] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:10] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:13] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:16] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:34:19] PERINGATAN: Wajah tidak terlihat lebih dari 3 detik!
+[2025-05-25 02:40:54] PELANGGARAN: Terdeteksi 2 wajah!
+[2025-05-25 02:41:00] PELANGGARAN: Terdeteksi 2 wajah!
+[2025-05-25 02:41:16] PELANGGARAN: Wajah tidak terlihat selama 3.0 detik!
+[2025-05-25 02:41:19] PELANGGARAN: Wajah tidak terlihat selama 3.0 detik!
+[2025-05-25 02:41:22] PELANGGARAN: Wajah tidak terlihat selama 3.1 detik!
